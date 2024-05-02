@@ -1,5 +1,4 @@
 # Hate and Offensive Speech Detection in Hindi and Marathi Social Media Texts
-AI 829 NLP - IIIT Bangalore
 ![NLP_Presentation (2)](https://github.com/SanketPatil29/hate-speech-detection-in-hindi-and-marathi/assets/67180623/65e76952-c739-4ade-9302-7849f8d8c6c4)
 ![NLP_Presentation (3)](https://github.com/SanketPatil29/hate-speech-detection-in-hindi-and-marathi/assets/67180623/2fe9e2fa-57e6-41f3-8b74-cc362ab8b6cf)
 ![NLP_Presentation (4)](https://github.com/SanketPatil29/hate-speech-detection-in-hindi-and-marathi/assets/67180623/05146fab-1f0c-416c-84bb-85d7d5880ede)

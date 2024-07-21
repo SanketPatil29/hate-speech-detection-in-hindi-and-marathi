@@ -1,4 +1,4 @@
-# Hate and Offensive Speech Detection in Hindi and Marathi Social Media Texts
+# Hate Speech Detection in Hindi and Marathi Social Media Texts
 As the use of social media platforms continues to grow, so does the incidence
 of harmful content, including hate speech, posted online. 
 This project aims to tackle the issue of hate speech in the Hindi and Marathi languages, two prominent languages spoken in India. There is a lack of attention for low-resource languages like Hindi and Marathi in the domain of hate speech detection. The project leverages deep learning approaches, to classify text as hate or non-hate. The datasets used are sourced from the HASOC and MOLD, focusing on Twitter posts in Hindi and Marathi. The dataset consists of binary labels. 
